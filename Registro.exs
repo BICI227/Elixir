@@ -51,5 +51,3 @@ defmodule Registro do
     end
   end
 end
-
-Registro2.run()
